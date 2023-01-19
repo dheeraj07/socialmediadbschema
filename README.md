@@ -1,1 +1,1 @@
-# socialmediadbschema
+# Social Media DB Schema
